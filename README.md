@@ -12,7 +12,7 @@
   </h3>
 </div>
 
-!['veterinaria'](/citas-react/public/veterinaria.png)
+!['veterinaria'](/citas-react/dist/veterinaria.png)
 
 **Citas Pacientes** es una aplicacion web para la gestion de citas en una veterinaria. El proyecto está desarrollado utilizando las siguientes tecnologías:
 
