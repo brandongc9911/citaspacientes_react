@@ -6,7 +6,7 @@
       Repositorio
     </a>
     <span> | </span>
-    <a target="_blank" href="https://{your-url-to-the-solution}">
+    <a target="_blank" href="https://thriving-bombolone-53dc8b.netlify.app">
       Demo
     </a>
   </h3>
